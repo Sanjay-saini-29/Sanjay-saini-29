@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋, I'm Sanjay</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Aspiring AI Engineer</h3>
 
 
-- 🌱 I’m currently learning **Power BI, Python, SQL, Excel**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP, Computer Vision, Reinforcement Learning, Agentic AI, Generative AI, Power BI, Python, SQL, Excel**
 
 - 📫 How to reach me **sanjay20042901@gmail.com**
 
