@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **sanjay20042901@gmail.com**
 
-- ⚡ Fun fact **Engineer by chance Data Analyst by hard work**
+- ⚡ Fun fact **Engineer by chance AI Enthusiast by hard work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
